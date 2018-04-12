@@ -1,0 +1,7 @@
+1. Open folder "PWA" and run "instalator.ps1" (right click - context menu - run with PowerShell)
+2. Wait for the installation to complete
+3. Go to "Start Menu" and find it under the letter "A"  - "ONLEFTSIDE"
+4. Complete!
+
+
+Team ONLEFTSIDE.COM - for more information visit https://github.com/OnLeftSideCZ
